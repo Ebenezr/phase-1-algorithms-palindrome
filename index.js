@@ -15,11 +15,16 @@ function isPalindrome(word) {
   3. compare the reversed string to the original string
   4. return true if they are the same, false if not
 
+
 */
 
 /*
   Add written explanation of your solution here
-  the solution is to convert the string to lowercase, reverse the string, and compare the reversed string to the original string
+
+  my solution is to; 
+  convert the string to lowercase.
+  reverse the string, 
+  and compare the reversed string to the original string
 */
 
 // You can run `node index.js` to view these console logs
