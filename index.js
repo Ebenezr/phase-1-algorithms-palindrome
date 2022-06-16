@@ -25,6 +25,7 @@ function isPalindrome(word) {
   convert the string to lowercase.
   reverse the string, 
   and compare the reversed string to the original string
+  
 */
 
 // You can run `node index.js` to view these console logs
